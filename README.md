@@ -10,6 +10,6 @@
 - click on your branch name
 - click on “Pull Request” button
 - click on “Send Pull Request”
-7. Wait for others review your pull request
+7. Wait for others review your pull request before merging
 
 More detail about workflow: https://www.youtube.com/watch?v=S7TbHDN8EXA&ab_channel=DevWorld
