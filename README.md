@@ -11,6 +11,5 @@
 - click on “Pull Request” button
 - click on “Send Pull Request”
 7. Wait for others review your pull request before merging
-8. Repeat step 3 to 7
 
 More detail about workflow: https://www.youtube.com/watch?v=S7TbHDN8EXA&ab_channel=DevWorld
